@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt6513120/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>comedy</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Fighting with My Family.jpg</string>
+		<key>name</key>
+		<string>Fighting with My Family</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt2365580/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>comedy</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Where&apos;d You Go, Bernadette.jpg</string>
+		<key>name</key>
+		<string>Where&apos;d You Go, Bernadette</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt2365580/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>comedy</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Knives Out.jpg</string>
+		<key>name</key>
+		<string>Knives Out</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt9865010/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>comedy</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Una Chica Invisible.jpg</string>
+		<key>name</key>
+		<string>Una Chica Invisible</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt9735976/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>comedy</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Wheels of Fortune.jpg</string>
+		<key>name</key>
+		<string>Wheels of Fortune</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt4126476/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>romance</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>After.jpg</string>
+		<key>name</key>
+		<string>After</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt3281548/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>romance</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Little Women.jpg</string>
+		<key>name</key>
+		<string>Little Women</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt8623904/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>romance</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Last Christmas.jpg</string>
+		<key>name</key>
+		<string>Last Christmas</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt6842770/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>romance</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Wild Mountain Thyme.jpg</string>
+		<key>name</key>
+		<string>Wild Mountain Thyme</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt9866072/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>romance</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Holidate.jpg</string>
+		<key>name</key>
+		<string>Holidate</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt6723592/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>action</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Tenet.jpg</string>
+		<key>name</key>
+		<string>Tenet</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt7737786/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>action</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Greenland.jpg</string>
+		<key>name</key>
+		<string>Greenland</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt7846844/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>action</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Enola Holmes.jpg</string>
+		<key>name</key>
+		<string>Enola Holmes</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt8367814/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>action</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>The Gentlemen.jpg</string>
+		<key>name</key>
+		<string>The Gentlemen</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt10059518/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>action</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Unhinged.jpg</string>
+		<key>name</key>
+		<string>Unhinged</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt6857112/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>horror</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Us.jpg</string>
+		<key>name</key>
+		<string>Us</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt8745960/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>horror</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Daniel Isn&apos;t Real.jpg</string>
+		<key>name</key>
+		<string>Daniel Isn&apos;t Real</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt7752126/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>horror</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Brightburn.jpg</string>
+		<key>name</key>
+		<string>Brightburn</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt1051906/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>horror</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>The Invisible Man.jpg</string>
+		<key>name</key>
+		<string>The Invisible Man</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt8004664/?ref_=adv_li_tt</string>
+		<key>genre</key>
+		<string>horror</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Come Play.jpg</string>
+		<key>name</key>
+		<string>Come Play</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt3513498/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>animation</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>The LEGO Movie 2_The Second Part.jpg</string>
+		<key>name</key>
+		<string>The LEGO Movie 2: The Second Part</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt6348138/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>animation</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Missing Link.jpg</string>
+		<key>name</key>
+		<string>Missing Link</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt1979376/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>animation</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Toy Story 4.jpg</string>
+		<key>name</key>
+		<string>Toy Story 4</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt4520988/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>animation</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Frozen.jpg</string>
+		<key>name</key>
+		<string>Frozen II</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt1620981/?ref_=ttls_li_tt</string>
+		<key>genre</key>
+		<string>animation</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>The Addams Family.jpg</string>
+		<key>name</key>
+		<string>The Addams Family</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt4154796/</string>
+		<key>genre</key>
+		<string>sci-fi</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Avengers Endgame.jpg</string>
+		<key>name</key>
+		<string>Avengers: Endgame</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt6450804/</string>
+		<key>genre</key>
+		<string>sci-fi</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Terminator_Dark Fate.jpg</string>
+		<key>name</key>
+		<string>Terminator: Dark Fate</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt1634106/</string>
+		<key>genre</key>
+		<string>sci-fi</string>
+		<key>year</key>
+		<string>2020</string>
+		<key>imageName</key>
+		<string>Bloodshot.jpg</string>
+		<key>name</key>
+		<string>Bloodshot</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt6320628/</string>
+		<key>genre</key>
+		<string>sci-fi</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Spider-Man_Far from Home.jpg</string>
+		<key>name</key>
+		<string>Spider-Man: Far from Home</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https://www.imdb.com/title/tt2283336/</string>
+		<key>genre</key>
+		<string>sci-fi</string>
+		<key>year</key>
+		<string>2019</string>
+		<key>imageName</key>
+		<string>Men in Black_International.jpg</string>
+		<key>name</key>
+		<string>Men in Black: International</string>
+	</dict>
+</array>
+</plist>
